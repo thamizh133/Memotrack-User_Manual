@@ -1,0 +1,7 @@
+
+### 1.  Go to the Dashboard
+
+![Step 1 screenshot](https://images.tango.us/workflows/1415f173-b67b-44b9-a40d-ccb306785a7b/steps/700cd630-a37c-4cc1-98a1-b1327d130123/750763fc-6199-414e-b518-3e4764bc3a13.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=5&mark-y=103&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTMlMkNGRjc0NDImdz0zMzAmaD01OSZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw)
+### 2. In the top-right corner, click the "Logout" button to log out and return to the sign-in page
+![Step 2 screenshot](https://images.tango.us/workflows/1415f173-b67b-44b9-a40d-ccb306785a7b/steps/b9ac7c70-bbfc-43a4-8fb6-717fd1fd6ae3/63c98f67-c26c-4f55-8710-a1e7d1a92664.png?crop=focalpoint&fit=crop&fp-x=0.7388&fp-y=0.3092&fp-z=1.6305&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=1028&mark-y=19&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz05NiZoPTk2JmZpdD1jcm9wJmNvcm5lci1yYWRpdXM9MTA%3D)
+
