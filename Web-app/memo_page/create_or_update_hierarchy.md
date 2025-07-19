@@ -1,4 +1,4 @@
-# [Create Approval Hierarchy](https://app.tango.us/app/workflow/1d7356a3-92ae-4163-971b-511034016c55?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
+# [Create or Update Approval Hierarchy](https://app.tango.us/app/workflow/1d7356a3-92ae-4163-971b-511034016c55?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
 
 
 ***
@@ -34,4 +34,3 @@
 ### 7. After you changes the hierarchy, Click on Update Hierarchy to update the hierarchy
 ![Step 7 screenshot](https://images.tango.us/workflows/1d7356a3-92ae-4163-971b-511034016c55/steps/a51cea21-3fef-4f49-9b3f-5a4eb95baef0/a1ce18ce-74fb-4a32-8253-3cb965bf1202.png?crop=focalpoint&fit=crop&fp-x=0.4825&fp-y=0.7604&fp-z=1.1143&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=92&mark-y=1055&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz0xMDE2Jmg9MTUwJmZpdD1jcm9wJmNvcm5lci1yYWRpdXM9MTA%3D)
 
-0links)
